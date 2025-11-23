@@ -2,11 +2,16 @@
 <img width="1920" height="1080" alt="표지" src="https://github.com/user-attachments/assets/730f830f-fe00-4bcb-88e6-5ed7e5346afd" />
 일하는 방식 기반 성향 테스트로, 나에게 맞는 직업을 찾아주는 **행동 데이터 기반 커리어 내비게이션 서비스**
 
-### 🧡 FE를 소개합니다
+### 🧡 팀원을 소개합니다
 <div align=center><table>
   <tr>
         <td align="center"><a href="https://github.com/gs0428"><img src="https://avatars.githubusercontent.com/u/114225974?v=4" width="100px;" alt=""/><br /><b>gs0428</b></a><p>레니</p></td>
           <td align="center"><a href="https://github.com/hyun907"><img src="https://avatars.githubusercontent.com/u/159671505?v=4" width="100px;" alt=""/><br /><b>hyun907</b></a><p>현이</p></td>
+          <td align="center"><a href="https://github.com/51taek"><img src="https://github.com/51taek.png" width="100px;" alt=""/><br /><b>51taek</b></a><p>앨런</p></td>
+      
+
+
+
    </tr>
 </table></div>
 <br>

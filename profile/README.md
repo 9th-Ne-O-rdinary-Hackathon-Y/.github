@@ -76,6 +76,11 @@
   * 관련 영상
   * 부트캠프/교육 링크 등
     → **성향 기반 직무 탐색 → 학습/준비 단계**까지 자연스럽게 이어지는 구조
+    
+---
+
+## 인프라
+<img width="617" height="442" alt="career-fit-infra" src="https://github.com/user-attachments/assets/de8d4099-286b-4b71-84de-a2efa7c127c1" />
 
 ---
 

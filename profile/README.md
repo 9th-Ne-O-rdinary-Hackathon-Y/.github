@@ -79,7 +79,7 @@
     
 ---
 
-## 인프라
+## 프로젝트 아키텍처
 <img width="617" height="442" alt="career-fit-infra" src="https://github.com/user-attachments/assets/de8d4099-286b-4b71-84de-a2efa7c127c1" />
 
 ---

@@ -8,6 +8,8 @@
         <td align="center"><a href="https://github.com/gs0428"><img src="https://avatars.githubusercontent.com/u/114225974?v=4" width="100px;" alt=""/><br /><b>gs0428</b></a><p>레니</p></td>
           <td align="center"><a href="https://github.com/hyun907"><img src="https://avatars.githubusercontent.com/u/159671505?v=4" width="100px;" alt=""/><br /><b>hyun907</b></a><p>현이</p></td>
           <td align="center"><a href="https://github.com/51taek"><img src="https://github.com/51taek.png" width="100px;" alt=""/><br /><b>51taek</b></a><p>앨런</p></td>
+          <td align="center"><a href="https://github.com/YoonchulChung"><img src="https://github.com/YoonchulChung.png" width="100px;" alt=""/><br /><b>YoonchulChung</b></a><p>알렉스</p></td>
+          <td align="center"><a href="https://github.com/gyeonseo"><img src="https://github.com/gyeonseo.png" width="100px;" alt=""/><br /><b>gyeonseo</b></a><p>견서</p></td>
       
 
 
